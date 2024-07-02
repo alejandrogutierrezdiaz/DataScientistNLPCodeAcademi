@@ -1,0 +1,19 @@
+Preguntas por responder 
+
+Con base en  las siguientes categorías de peso consideradas a partir de BMI: 
+'Underweight' < 18.5
+'Normal' 18.5 <> 24.9
+Overweight 25 <> 29,9
+Obese 30 <> 34.9
+Extremely Obese > 35
+
+1) Porcentualmente, cuál es la distribución general de la población estudiada respecto de las categorías.
+2) Cual es la distribución porcentual en las categorías según:
+	el genero de las personas.
+	fumadores y no fumadores
+	con o sin hijos
+	region
+	
+3) cuál es el charges promedio estudiada respecto de las categorías.
+4) Look at the different costs between smokers vs. non-smokers.
+ 
